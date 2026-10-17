@@ -11,7 +11,7 @@ date_range: "2021–2025"
 - **Classification:** First Class Honours
 - **GPA:** 18.3/20
 - **Awards:** Dean's List (×4), Computer Science, Programming Projects, Statistics
-- **Theses:** [Hausdorff dimension of self-similar sets in complete metric spaces](/_projects/bsc-thesis-mathematics), [Procedural shoot 'em up](/_projects/bsc-thesis-computer-science)
+- **Theses:** [Hausdorff dimension of self-similar sets in complete metric spaces](/projects/bsc_thesis_mathematics), [Procedural shoot 'em up](/projects/bsc_thesis_computer_science)
 
 ## Courses
 

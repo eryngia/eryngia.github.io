@@ -91,6 +91,8 @@ KTH Royal Institute of Technology, Stockholm, Sweden\
 - Collaborated with an international team of artists, testers, and translators.
 - Designed and implemented narrative and gameplay systems in a custom Unity framework.
 
+***
+
 ## Interests
 
 - **Hobbies:** Modding, tabletop roleplaying, netball
