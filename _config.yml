@@ -232,7 +232,7 @@ collections:
     permalink: /:collection/:path/
   portfolio:
     output: true
-    permalink: /:collection/:path/
+    permalink: /projects/:path/
     sort_by: date
   talks:
     output: false
